@@ -3,7 +3,7 @@
 Architecture uses [Express](https://expressjs.com/).<br>
 Templating done via [EJS](https://ejs.co/).<br>
 
-## 1. Install Docker
+## Install Docker
 This example uses Docker, the links below can help you get Docker installed.
 * Mac users: https://www.docker.com/products/docker-desktop
     * Follow installer
@@ -11,7 +11,7 @@ This example uses Docker, the links below can help you get Docker installed.
     * Download latest .exe file
     * Follow installer
 
-## 3. Start the app server
+## Start the app server
 Open the Terminal app (Mac) or the Docker Quickstart Terminal (Windows), go to the home directory of this project.
 
 Launch the server with the command <code>docker-compose -p covid up --build &</code>
